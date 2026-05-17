@@ -5,3 +5,22 @@ buttons.forEach((button) => {
     alert("Dies ist ein gemockter Kaufprozess für das Praxisbeispiel.");
   });
 });
+
+
+// for legal.html
+
+const buttons = document.querySelectorAll(".price-card button");
+
+buttons.forEach((button) => {
+  button.addEventListener("click", () => {
+    alert("Dies ist ein gemockter Kaufprozess für das Praxisbeispiel.");
+  });
+});
+
+const contactButton = document.querySelector(".contact-form button");
+
+if (contactButton) {
+  contactButton.addEventListener("click", () => {
+    alert("Das Kontaktformular ist nur gemockt und sendet keine Daten.");
+  });
+}
