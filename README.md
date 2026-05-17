@@ -60,30 +60,17 @@ Zusätzlich Auftragsverwaltung, PDF-Angebote, Lizenznotizen und Prioritäts-Supp
 Studio:
 29,90 € / Monat
 Für kleine Teams mit mehreren Nutzerkonten, erweiterten Exporten und Teamverwaltung.
+
+
 Seitenstruktur
 index.html
-Startseite mit Hero-Bereich, Produktbeschreibung, Hauptfunktionen und Call-to-Action.
-
-features.html
-Detailseite zu Projektverwaltung, Filamentlager, Kostenrechner und Auftragsverwaltung.
-
-pricing.html
-Webshop-/Preisseite mit Free, Maker, Seller und Studio. Kaufprozess wird gemockt.
+Startseite mit Produktbeschreibung, Funktionen, Preisen und gemocktem Kaufprozess.
 
 about.html
-About-us-Seite mit Unternehmen, Mission und den drei Markenformen.
+About-us-Seite mit Unternehmen, Mission, Markenformen, Nizza-Klassen und Markenrecherche.
 
-license.html
-Lizenzseite: Welche Nutzungsrechte erhält der Käufer? Welche Rechte bleiben beim Unternehmen?
-
-privacy.html
-Datenschutzerklärung für Kontaktformular, Newsletter, Cookies, Analyse-Tools und gemockten Kaufprozess.
-
-accessibility.html
-Barrierefreiheitserklärung.
-
-contact.html
-Kontaktseite und Impressum.
+legal.html
+Lizenzbedingungen, Datenschutzerklärung, Barrierefreiheitserklärung, Kontakt und Impressum.
 
 media-licenses.html
-Liste aller verwendeten Medien, Bilder, Icons, Fonts, Sounds und deren Lizenzen.
+Liste aller verwendeten Medien, Grafiken, Fonts, Sounds, Texte und deren Lizenzen.
